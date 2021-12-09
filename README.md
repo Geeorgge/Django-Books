@@ -6,12 +6,12 @@ load an image in the review.
 
 
 # Book App.
-![Books.js](bookstore/assets/images/books.png)
+![Books](bookstore/assets/images/books.png?raw=true)
 
 
 # Book Detail.
-![2.png](bookstore/assets/images/2.png)
+![Details](bookstore/assets/images/2.png?raw=true)
 
 
 # Login Page.
-![3.png](bookstore/assets/images/3.png)
+![Login](bookstore/assets/images/3.png?raw=true)
