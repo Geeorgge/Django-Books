@@ -6,7 +6,7 @@ load an image in the review.
 
 
 # Book App.
-![books.png](bookstore/assets/images/books.png)
+![Books.js](bookstore/assets/images/books.png)
 
 
 # Book Detail.
