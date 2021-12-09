@@ -1,17 +1,17 @@
 # [Django-Books](https://github.com/Geeorgge/Django-Books)
 App in django to create programming books.
 
-You can login to make a review of books and
+You can login in page to make a review of books and
 load an image in the review.
 
 
 # Book App.
-![Books](bookstore/assets/images/books.png?raw=true)
+<img src="https://github.com/Geeorgge/Django-Books/blob/main/assets/images/books.png" width="2000">
 
 
 # Book Detail.
-![Details](bookstore/assets/images/2.png?raw=true)
+<img src="https://github.com/Geeorgge/Django-Books/blob/main/assets/images/Details.png" width="2000">
 
 
 # Login Page.
-![Login](bookstore/assets/images/3.png?raw=true)
+<img src="https://github.com/Geeorgge/Django-Books/blob/main/assets/images/Login.png" width="2000">
