@@ -85,10 +85,19 @@ if os.environ.get('DATABASE_URL'):
         'default' : dj_database_url.config(conn_max_age=500)
     }    
 else:
+    # DATABASES = {
+    #     'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': BASE_DIR / 'db.sqlite3',
+    # }
     DATABASES = {
-        'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'books_mysql',
+        'USER': 'george',
+        'PASSWORD': '2526',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
 
@@ -123,7 +132,6 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
